@@ -1,0 +1,83 @@
+img {
+ 
+  border-width: 1px;
+  padding-top: 50px;
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+}
+body {
+  background: #fff;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+  margin: auto 0;
+}
+h3 , p {
+  color: black;
+}
+.header {
+ background-image: url(https://www.pinterest.com/pin/91690542385051229/);
+  background-size: cover;
+  background-position:center;
+  margin: 0 auto; 
+}
+
+.header p {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.sub-title1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;  
+}
+
+.sub-title2 {
+  background-color: lightcoral;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+ 
+}
+.sub-title3 {
+  background-color: skyblue;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.content {
+  position: sticky;
+  top: 80px;
+  text-align: center;
+  position: sticky;
+  border: 15px solid #DBE9EE;
+  background-image: url("https://previews.123rf.com/images/olegdudko/olegdudko1908/olegdudko190803400/128880447-row-of-artist-paint-brushes-on-background.jpg");
+  
+}
+
+.footer {
+color: black;
+z-index: 10;
+text-align: center;
+background-color:white;
+font-size: 30px;
+position: absolute;
+margin: auto 0;
+}
+
+.footer ul {
+   list-style-type: square;
+   font-family: Helvetica;
+   
+   
+}
